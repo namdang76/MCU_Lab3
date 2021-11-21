@@ -1,0 +1,3 @@
+input_processing.c:22:6:button_reading	16	static
+input_processing.c:50:15:get_button_value	16	static
+input_processing.c:55:15:get_flag_for_button_press_1s	16	static
